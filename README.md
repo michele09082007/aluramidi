@@ -1,1 +1,1 @@
-# aluramidi
+document.querySelector(.tecla_som')
