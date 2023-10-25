@@ -1,1 +1,1 @@
-document.querySelector(.tecla_som')
+document.querySelector(.'tecla_som')
